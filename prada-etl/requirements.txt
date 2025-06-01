@@ -1,9 +1,0 @@
-selenium
-psycopg2-binary
-sqlalchemy
-fastapi
-uvicorn
-streamlit
-pandas
-requests
-beautifulsoup4
